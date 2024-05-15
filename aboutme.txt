@@ -1,0 +1,4 @@
+My name is Roy, and I am a newbie in web development. I have recently started learning about various web technologies. My current focus is on improving my skills in HTML, CSS, JavaScript.
+
+I am passionate about creating dynamic and interactive web applications. My goal is to become proficient in full-stack development, and I am continuously seeking opportunities to learn and grow in this field.
+
